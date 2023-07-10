@@ -1,0 +1,133 @@
+project:
+  type: website
+
+website:
+  title: "Resources"
+  navbar:
+    logo: /img/LOGOx2-white.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: curriculum.qmd
+        text: Curriculum
+      - text: Training materials
+        menu:
+          - resources.qmd
+          - module1a/module1a_overview.qmd
+          - module1b/module1b_overview.qmd
+          - module2/module2_overview.qmd
+          - module3a/module3a_overview.qmd
+          - module3b/module3b_overview.qmd
+          - module3c/module3c_overview.qmd
+          - module3d/module3d_overview.qmd
+          - module4/module4_overview.qmd
+          - dataviz/dataviz.qmd
+
+  page-footer: 
+    left: "This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged with acknowledgement" 
+    right: 
+      - icon: github
+        href: https://github.com/WCSCourses
+      - icon: twitter 
+        href: https://twitter.com/t3connect
+
+  sidebar:
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents: 
+      - section: "Module 1A"
+        contents:
+          - module1a/module1a_introduction.qmd
+          - module1a/module1a_strategies.qmd
+          - module1a/module1a_elements.qmd
+          - module1a/module1a_training_design.qmd
+          - module1a/module1a_references.qmd
+      - section: "Module 1B"
+        contents:
+          - module1b/module1b_introduction.qmd
+          - module1b/module1b_ethical_issues.qmd
+          - module1b/module1b_flow_of_data.qmd
+          - module1b/module1b_implementing_genomics_in_healthcare.qmd
+          - module1b/module1b_infrastructure.qmd
+          - module1b/module1b_microbial_genomics_resources.qmd
+          - module1b/module1b_references.qmd
+      - section: "Module 2"
+        contents:
+          - module2/module2_introduction.qmd
+          - module2/module2_presentation_concepts.qmd
+          - module2/module2_activity_pack.qmd
+          - module2/module2_competencies.qmd
+          - module2/module2_design_toolkit.qmd
+          - module2/module2_evaluation.qmd
+          - module2/module2_evaluation_exercise.qmd
+          - module2/module2_resources.qmd
+          - module2/module2_references.qmd
+      - section: "Module 3A"
+        contents:
+          - module3a/module3a_introduction.qmd
+          - module3a/module3a_presentation.qmd
+          - module3a/module3a_activity1.qmd
+          - module3a/module3a_activity2.qmd
+          - module3a/module3a_videos.qmd
+          - module3a/module3a_resources.qmd
+          - module3a/module3a_references.qmd
+      - section: "Module 3B"
+        contents:
+          - module3b/module3b_introduction.qmd
+          - module3b/module3b_presentation.qmd
+          - module3b/module3b_activity.qmd
+          - module3b/module3b_resources.qmd
+          - module3b/module3b_references.qmd
+      - section: "Module 3C"
+        contents:
+          - module3c/module3c_introduction.qmd
+          - module3c/module3c_presentation.qmd
+          - module3c/module3c_activities_background.qmd
+          - module3c/module3c_activity1a.qmd
+          - module3c/module3c_activity1b.qmd
+          - module3c/module3c_activity1c.qmd
+          - module3c/module3c_activity1d.qmd
+          - module3c/module3c_activity1e.qmd
+          - module3c/module3c_activity2.qmd
+          - module3c/module3c_activity3.qmd
+          - module3c/module3c_bonus.qmd
+          - module3c/module3c_resources.qmd
+          - module3c/module3c_references.qmd
+      - section: "Module 3D"
+        contents:
+          - module3d/module3d_introduction.qmd
+          - module3d/module3d_presentation_how_to_train.qmd
+          - module3d/module3d_presentation_strategies.qmd
+          - module3d/module3d_presentation_examples.qmd
+          - module3d/module3d_group_activity.qmd
+          - module3d/module3d_resources.qmd
+          - module3d/module3d_references.qmd
+      - section: "Module 4"
+        contents:
+          - module4/module4_introduction.qmd
+          - module4/module4_resources.qmd
+          - module4/module4_references.qmd
+      - section: "Workshop on Data Viz"
+        contents:
+          - dataviz/dataviz.qmd
+          - dataviz/dataviz_groupactivity.qmd
+          - dataviz/dataviz_Microreact_demo.qmd
+          - dataviz/dataviz_Microreact_activity.qmd
+          
+format:
+  html:
+    theme:
+      light: [materia, theme-light.scss]
+      dark: [materia, theme-dark.scss]
+
+editor: visual
+
+execute:
+  freeze: auto
+  
+sidebar:
+  contents: auto
+
+link-external-newwindow: true
+
