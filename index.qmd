@@ -1,25 +1,14 @@
 ---
-title: "Digital Epidemiology Workshop"
+title: ""
 ---
 
 This page is a repository for training resources designed and developed for the Digital Epidemiology Workshop, Cartagena, Colombia, 12-13 September 2023.
 
-This workshop is funded through a [**NIHR Global Health Research Cohort Academic Development Award (GHR CADA**](https://www.nihr.ac.uk/documents/nihr-global-health-research-cohort-academic-development-award-ghr-cada-round-2-2022-guidance-notes/32064)**).**
+The workshop is part of the annual meeting of the [NIHR Global Health Research Unit on Genomic Surveillance of AMR](https://ghru.pathogensurveillance.net/) and is funded through an [**NIHR Global Health Research Cohort Academic Development Award (GHR CADA**](https://www.nihr.ac.uk/documents/nihr-global-health-research-cohort-academic-development-award-ghr-cada-round-2-2022-guidance-notes/32064)**).**
 
-***The materials provided in this repository are FREE to use.***
-***This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged with acknowledgement.***
+***The materials provided in this repository are FREE to use.*** ***This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged with acknowledgement.***
 
-
-**The workshop objective**s are to 1) Generate **a stakeholders map** for digital epidemiologists within each unit, 2) Improve **the competencies list** required for a digital epidemiologist persona. The competencies list will  a) help generate accurate job specifications and facilitate **recruitment** of Digital Epidemiologists and b) facilitate the evaluation of Digital Epidemiologists\' current knowledge and skills, 3) Refresh relevant domain specific knowledge, 4) Discuss real-case scenarios where digital epidemiology generated actionable data for public health, and 5) Identify  \"Digital Epidemiology Network Champions\" among the participants of the workshop and kick-start a peer network.
-
-### Recommended background knowledge
-
--   Biological and clinical mechanisms underlying infectious pathogens
--   Infectious disease epidemiology and surveillance
--   Disease outbreaks
--   Pathogens of clinical significance
--   Anti-microbial resistance
-
+Link to [Syllabus](Syllabus.qmd)
 
 Link to [Training materials](resources.qmd)
 

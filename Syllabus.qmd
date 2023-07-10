@@ -1,0 +1,65 @@
+---
+title: "Training Syllabus"
+---
+
+### Training Objectives
+
+**The workshop objective**s are to 1) Generate **a stakeholders map** for digital epidemiologists within each unit, 2) Improve **the competencies list** required for a digital epidemiologist persona. The competencies list will  a) help generate accurate job specifications and facilitate **recruitment** of Digital Epidemiologists and b) facilitate the evaluation of Digital Epidemiologists\' current knowledge and skills, 3) Refresh relevant domain specific knowledge, 4) Discuss real-case scenarios where digital epidemiology generated actionable data for public health, and 5) Identify  \"Digital Epidemiology Network Champions\" among the participants of the workshop and kick-start a peer network.
+
+**Learning objectives.** By the end of the workshop, the participants will be able to 1) Identify relevant internal and external stakeholders, relevant to their work environment 2) Identify areas of weakness and strength in local Digital Epidemiology skills, based on the competencies list 3) Explain how digital epidemiology can be applied in own country-context 4) Discuss real-world scenarios of applied digital epidemiology.\
+
+### Targeted competencies and Knowledge, Skills and Attitudes
+
+-   Genomics data tools and workflows
+
+-   Data management and data sharing
+
+-   Flow of data from sample to decision-making
+
+-   Understanding of the importance of accurate metadata
+
+-   Integration of epidemiological, laboratory and genomic data
+
+-   Interpretation of phylogenetic trees in the context of genomic epidemiology.
+
+-   Integrated skills: Communication, Networking, Reporting
+
+### Training Methods and Instructional Strategies
+
+-   Lectures, discussions, hands-on activities, case studies, group work
+
+### Duration of training 
+
+-   Two days (14h total)
+
+### Schedule of sessions 
+
+**Day 1**
+
+...
+
+**Day 2**
+
+...
+
+### Assessment and Evaluation 
+
+Pre-workshop and post-workshop assessments will be filled in by participants to measure Knowledge, Skills and Attitudes related to targeted competencies. 
+
+The effectiveness of the workshop will be evaluated through feedback questionnaires, handed in at the end of the last module. Follow-up questionnaires will be six months after the end of the workshop. Key success indicators of the workshop will consist of 1)  the number of participants that are able to apply digital epidemiology skills in their local laboratories and 2) the number of participants that can facilitate training of new digital epidemiologists in local contexts.
+
+### Resources
+
+A series of resources will be made available for participants prior, during and after the workshop: use cases / tutorials / documentation and printed training materials.
+
+### Recommended background knowledge
+
+-   Biological and clinical mechanisms underlying infectious pathogens
+
+-   Infectious disease epidemiology and surveillance
+
+-   Disease outbreaks
+
+-   Pathogens of clinical significance
+
+-   Anti-microbial resistance
