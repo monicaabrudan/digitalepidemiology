@@ -1,4 +1,0 @@
----
-title: "Evaluation exercise"
----
-[Evaluation template](docs/Evaluation_table.docx)

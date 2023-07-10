@@ -1,5 +1,0 @@
----
-title: "Presentation"
----
-
-[Presentation](docs/presentation.pdf) : Sample Genomic Analysis, Data Generation, and QC

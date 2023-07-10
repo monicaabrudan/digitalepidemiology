@@ -1,5 +1,0 @@
----
-title: "Presentation"
----
-
-**P**resentation: [Introduction to peer review](docs/Introduction-to-peer%20review.pdf)

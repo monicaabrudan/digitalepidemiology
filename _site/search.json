@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "dataviz/dataviz_Microreact_demo.html",
+    "href": "dataviz/dataviz_Microreact_demo.html",
+    "title": "Microreact demo",
+    "section": "",
+    "text": "Microreact can be used to describe a large collection of 1451 isolates of Klebsiella pneumoniae, sampled from four countries (Colombia, India, Nigeria and The Philippines) between 2013 and 2019.\n\nKlebsiella pneumoniae is a species of bacteria that is commonly found in natural and man-made environments. It has the impressive ability to colonise diverse animal species, including ourselves, pets and livestock. In healthy humans, K. pneumoniae is frequently found on the skin, in the mouth, and in the respiratory and gastrointestinal tracts. But K. pneumoniae is also an opportunistic pathogen, and can cause a wide range of infections in humans (and other animals). These include urinary tract, respiratory and bloodstream infections. \n\nIn recent years, there have been an increasing number of infections with K. pneumoniae that are resistant to antibiotics. One study found that carbapenem-resistant K. pneumoniae is the fastest-growing antibiotic resistance threat in Europe, with a 6-fold increase in the number of attributable deaths between 2007 and 2015. K. pneumoniae infections are particularly associated with patients who are very young (i.e. new-born babies), elderly, or immunocompromised.\nMicroreact demo link\nData taken from a series of articles published in 2021 in the journal Clinical Infectious Diseases:\n\nGlobal collection article\n\nPhilippines article\nIndia article\nNigeria article\nColombia article"
+  },
+  {
+    "objectID": "dataviz/dataviz_Microreact_activity.html",
+    "href": "dataviz/dataviz_Microreact_activity.html",
+    "title": "Dataviz Microreact activity",
+    "section": "",
+    "text": "Explore and describe parts of the Klebsiella pneumoniae global collection. \n\nDemos to start your story\nKlebsiella pneumoniae in Colombia\n\nPresent WGS QC statistics in a chart. \nWhat are the dominating STs in Colombia?\nPlot metadata blocks for CTX-M-15, NDM-1, KPC and  OXA genes. What are the prevalent AMR mechanisms detected ?\nWhich STs are associated with the presence of carbapenamase genes?\n\nColombia microreact link\n\nColombia article"
+  },
+  {
+    "objectID": "dataviz/dataviz_groupactivity.html",
+    "href": "dataviz/dataviz_groupactivity.html",
+    "title": "Dataviz workshop group activity",
+    "section": "",
+    "text": "Group Activity: Real scenario from a public health lab in the USA: Can we identify ways to reduce poor sequencing outcomes?\nA state public health lab receives samples from individual labs. The data is aggregated in a spreadsheet.\nThe state public health lab sequences samples and analyses the data using bioinformatics methods, and adds their results to a spreadsheet.\nPlease find below three alternative data visualisation options:\n\nUsing a spreadsheet\nUsing Python (this is available in Google Colab)\nUsing Data-flo and Microreact\n\nWork in groups to answer the following questions and present your findings to the rest of the classroom.\n*What happens if the data input changes ?\nWhat if we add more input data ?\nWhat if date intervals change ?\nWhat if the question changes, would you change the methods you used to train your audience?\nWhich method would you train others to apply and why ?\nCan you think which tools and applications would you use to analyse data in different contexts? eg for difference audience*\nPlease free to express your thoughts on different technologies/implementations by replying to this forum."
+  },
+  {
+    "objectID": "dataviz/dataviz_groupactivity_python.html",
+    "href": "dataviz/dataviz_groupactivity_python.html",
+    "title": "dataviz_groupactivity_python",
+    "section": "",
+    "text": "Five labs submit samples to a regional reference centre, for QC and bioinformatics analysis.\nThe data is received in a table format, from a live google sheet.\nThe regional reference centre processes the data and, for each sample, give an output of Pass / Fail.\nThe goals of this exercise are to 1) find out which labs have the quickest turn around times 2) find out if some labs lag behind quality control\n```{python} import pandas as pd ```"
+  },
+  {
+    "objectID": "dataviz/dataviz.html",
+    "href": "dataviz/dataviz.html",
+    "title": "Workshop on Data Viz",
+    "section": "",
+    "text": "This page provides resources designed and developed for the Data Viz workshop."
+  },
+  {
+    "objectID": "dataviz/dataviz.html#workshop-outline",
+    "href": "dataviz/dataviz.html#workshop-outline",
+    "title": "Workshop on Data Viz",
+    "section": "Workshop outline:",
+    "text": "Workshop outline:\n\nDiscuss aspects of good storytelling. \nReflect on how one can use visualisation to tell a story about data.\nIn groups, discuss what are the best visualisation methods for a given task\nDemonstrate how Microreact can be used to tell a story.\nIn a hands-on exercise, apply techniques from Microreact to tell a story. \nProvide resources to aid healthcare workers visualise their data."
+  },
+  {
+    "objectID": "dataviz/dataviz.html#introduction",
+    "href": "dataviz/dataviz.html#introduction",
+    "title": "Workshop on Data Viz",
+    "section": "Introduction",
+    "text": "Introduction\nPresentation\nPrinciples of good story telling\n\nKeep it simple, where possible\nBuild up towards complex figures\nBe consistent, but do not be repetitive\n\nExamples: Last chapter of the book “Fundamentals of Data Visualization” by Claus O. Wilke \nClever trick examples\n\nsometimes cropping large values is justified\nfinding a common scale size and arrangement of all the charts\nusing a fading effect at the lower end of the chart\nsetting the y-axis maximum\nusing irregular axis scales\nwhen it makes more sense to directly label the bars with their actual values\n\nGroup Activity: Real scenario from a public health lab in the USA: Can we identify ways to reduce poor sequencing outcomes?\nDemonstration on how Microreact can be used to tell a story\nActivity: Using Microreact to tell our own story\nResources: Microreact instructional videos"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Digital Epidemiology Workshop",
+    "section": "",
+    "text": "This page is a repository for training resources designed and developed for the Digital Epidemiology Workshop, Cartagena, Colombia, 12-13 September 2023.\nThis workshop is funded through a NIHR Global Health Research Cohort Academic Development Award (GHR CADA).\nThe materials provided in this repository are FREE to use. This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged with acknowledgement.\nThe workshop objectives are to 1) Generate a stakeholders map for digital epidemiologists within each unit, 2) Improve the competencies list required for a digital epidemiologist persona. The competencies list will  a) help generate accurate job specifications and facilitate recruitment of Digital Epidemiologists and b) facilitate the evaluation of Digital Epidemiologists' current knowledge and skills, 3) Refresh relevant domain specific knowledge, 4) Discuss real-case scenarios where digital epidemiology generated actionable data for public health, and 5) Identify  \"Digital Epidemiology Network Champions\" among the participants of the workshop and kick-start a peer network.\n\nRecommended background knowledge\n\nBiological and clinical mechanisms underlying infectious pathogens\nInfectious disease epidemiology and surveillance\nDisease outbreaks\nPathogens of clinical significance\nAnti-microbial resistance\n\nLink to Training materials\nLink to Microreact tutorials\nLink to Data-flo tutorials"
+  },
+  {
+    "objectID": "microreact/microreact.html",
+    "href": "microreact/microreact.html",
+    "title": "Microreact tutorial",
+    "section": "",
+    "text": "Required internet browsers: Google Chrome or Mozilla Firefox\nIn this series of exercises, you will use Microreact to gain knowledge regarding a large collection of Klebsiella pneumoniae isolates, sampled from Colombia, between 2013 and 2019. At the end of this series of exercises, you will be able to identify a high risk clone circulating in the country.\n\n\nGo to www.microreact.org/project/kpncolombia and explore the collection of isolates.\nTask 1: Create an editable project.\nTask 2: Present whole genome sequencing quality control (WGS QC) statistics in a chart. \nTask 3: What are the dominating sequence types (STs) in Colombia?\nTask 4: Plot metadata blocks for the carbapenamase genes CTX-M-15, NDM-1, KPC and OXA. What are the prevalent AMR mechanisms detected ?\nTask 5: Which STs are associated with the presence of carbapenamase genes?\n\n\n\nThis is a screenshot of a Microreact project called “Klebsiella pneumoniae Colombia”. Notice the main panels in this project: the map, the tree, the timeline and the saved views.\n\n\n\n\n\nTask 1: Create an editable project. Step 1: Notice the crossed out pen on right top corner of your screen. This indicates that you cannot edit the current Microreact project.\n\n\n\n\n\nTask 1: Create an editable project. Step 2: Click the crossed out “Pen” symbol in the top right of the screen. A window appears asking you to “SIGN IN TO EDIT”.\n\n\n\n\n\nTask 1: Create an editable project. Step 3: Once you sign in, the message changes, and you are invited to “MAKE A COPY” of the current project. Make a copy, to proceed.\n\n\n\n\n\nTask 1: Create an editable project. Step 4: Notice that, once you made a copy of the project, the crossed out “pen” symbol will change to a “normal pen”, and you will be able to edit and save the project.\n\n\n\n\n\nTask 2: Present WGS QC statistics in a chart. Step 1: Select the “Kpn Colombia” view. Click on the “Pen” symbol on the top right menu. Click on the “Create New Chart”\n\n\n\n\n\nTask 2: Present WGS QC statistics in a chart. Step 2: Drag the new chart to overlap with the tree.\n\n\n\n\n\nTask 2: Present WGS QC statistics in a chart. Step 3: An empty panel for the new chart will be shown on top of the tree panel.\n\n\n\n\n\nTask 2: Present WGS QC statistics in a chart. Step 4: In the Chart Type dropdown list select “Bar Chart”.\n\n\n\n\n\nTask2: Present WGS QC statistics in a chart. Step 5: A new window appears. In the X Axis Column, select “WGS_QC_no_contigs” and for “Maximum number of bins” select 10.\n\n\n\n\n\nTask 2: Present WGS QC statistics in a chart. Step 6: The bar chart will look like above. Observe that most genomes have less the 100 contigs.\n\n\n\n\n\nTask 3: What are the dominating STs in Colombia? Now that you’ve created one chart, you can create another one! Step 1: Go to the “Pen: symbol on the right hand side and click on the”Create New Chart”.\n\n\n\n\n\nTask 3: What are the dominating STs in Colombia? Step 2: The new chart can stay right on top of the previously created one.\n\n\n\n\n\nTask 3: What are the dominating STs in Colombia? Step 3: Notice a white canvas on top of the previously generated chart.\n\n\n\n\n\nTask 3: What are the dominating STs in Colombia? Step 4: Once again, from the Chart Type dropdown menu, select “Bar Chart”, and when the new view shows up on the “X Axis Column”, select ST.\n\n\n\n\n\nTask 3: What are the dominating STs in Colombia? Step 5: A new chart will appear. The labels on the x-axis appear squished and they are hard to read. Drag the panel divider on the left hand side of the chart, to increase the width of the panel.\n\n\n\n\n\nTask 3: What are the dominant STs in Colombia? Step 6: The information on the x-axis should be readable now. The 3 most abundant STs are ST11, ST258 and ST512.\n\n\n\n\n\nTask 3: What are the dominant STs in Colombia? Step 7: Click the “Views” panel on the left hand side, hover over “Kpn Colombia”, click on the three dots on the corner of the view and hit “Update View”\n\n\n\n\n\nTask 3: What are the dominant STs in Colombia? Step 8: Go to the Save icon on the right corner, press the icon and choose “Update This Project”\n\n\n\n\n\nTask 4: Plot metadata blocks for CTX-M-15, NDM-1, KPC and OXA genes. What are the prevalent AMR mechanisms detected ? Step 1: Press the icon on the top right of the tree panel.\n\n\n\n\n\nTask 4: Plot metadata blocks for CTX-M-15, NDM-1, KPC and OXA genes. What are the prevalent AMR mechanisms detected ? Step 2: In the Metadata blocks dropdown list, tick all boxes containing KPC, NDM, VIM, OXA and CTX-M-15 genes.\n\n\n\n\n\nTask 4: Plot metadata blocks for CTX-M-15, NDM-1, KPC and OXA genes. What are the prevalent AMR mechanisms detected ? Step 3: The tree panel will show metadata columns. Yellow indicates presence of a certain gene and green indicates absence. In the panel shown here, it appears that the most common genes present are KPC-2, KPC-3, NDM-1 and CTX-M-15.\n\n\n\n\n\nTask 5: Which STs are associated with the presence of carbapenamase genes? Step 1: Go to the “Metadata blocks” and check the ST box.\n\n\n\n\n\nTask 5: Which STs are associated with the presence of carbapenamase genes? Step 2: Observe the new metadata column next to the tree, with the header “ST”.\n\n\n\n\n\nTask 5: Which STs are associated with the presence of carbapenamase genes? In the tree with added metadata blocks, we can observe a large brown block of isolates belonging to ST258. You will need to check the Legend on the very right of Microreact.\n\n\n\n\n\nTask 5: Which STs are associated with the presence of carbapenamase genes? On a close look, we can observe that ST258 is associated with the presence of the carbapenamase gene KPC-3."
+  },
+  {
+    "objectID": "definitions.html",
+    "href": "definitions.html",
+    "title": "What is Digital Epidemiology?",
+    "section": "",
+    "text": "The importance of Digital Epidemiology\nDigital epidemiology is an emerging field, which can be broadly described as the use of digital data for the purpose of answering epidemiological questions.\nFunded by the NIHR under the Global Health Research Unit programme, our work at the Centre for Genomic Pathogen Surveillance focuses specifically on the applications of digital epidemiology of infectious diseases, including outbreak investigations, pathogen surveillance, understanding of vaccine efficacy and spread of antimicrobial resistance genes and vehicles. \nThe importance of digital epidemiology has been raised to a global level during the pandemic. The value of bringing together genomic with epidemiological and clinical data improved public health decision making, informing experts with regard to virus variants expansions and adding significant contributions to the investigation on the origin of the virus. \nMoreover, the pandemic has taught us that the effective use of digital epidemiology can impact on operational decisions in healthcare settings, impacting on patient wellbeing and outcomes.\nDuring the COVID pandemic there has been a learning curve for many laboratories around the world, who were able to use genomic and digital data to good effect, changing operational approaches and decisions based on results. However, interdisciplinary teams formed of wet-lab scientists, Bioinformaticians, clinicians and non-technical staff (hospital managers, for example) often found barriers in communication of information. The relevance and impact of Digital Epidemiology was often difficult to explain between different professional specialisations. Scientists familiar with Digital Epidemiology often found it challenging to communicate to colleagues what genomic data could and could not reveal. \n\nThere is a general need to learn how to interpret information related to Digital Epidemiology and to better communicate results to various stakeholders."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Overview",
+    "section": "",
+    "text": "The materials provided in this repository are FREE to use.\nThis work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged with acknowledgement."
+  },
+  {
+    "objectID": "module3b/module3b_overview.html",
+    "href": "module3b/module3b_overview.html",
+    "title": "Module 3B",
+    "section": "",
+    "text": "Module lead: Dr. Matthew Dorman\nLate of last revision: June 2023\nThis module was made available to participants through a Learning Management System, during the actual face-to-face course.\nIntroduction\nPresentation\nActivity\nResources\nReferences and Acknowledgements"
+  },
+  {
+    "objectID": "module3b/module3b_references.html",
+    "href": "module3b/module3b_references.html",
+    "title": "References and Acknowledgements",
+    "section": "",
+    "text": "Slides on References and acknowledgements"
+  },
+  {
+    "objectID": "module3b/module3b_introduction.html",
+    "href": "module3b/module3b_introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "The production of reliable and accurate genome sequencing data is essential to enabling genomic surveillance and analysis of pathogens. Similarly, consideration needs to be given to the selection and use of analytical methodologies that are appropriate to the types of genome sequencing data generated from a pathogen. The quality of the material to be sequenced – and its quality control – can therefore fundamentally alter the way in which genomic data can be interpreted, and misinterpretation can lead to erroneous conclusions being drawn about a pathogen's virulence, transmission dynamics, or antimicrobial resistance genotype. \nAs a result, trainers need to be equipped to teach others how to think about quality control (QC) – both of sequencing data and of the purity, integrity, and size of the nucleic acids which are used for sequencing reactions. This module aims to be highly interactive, presenting learners with real-world examples in which incorrect or erroneous conclusions can be drawn from failing to control for the quality of data. The overall aim of this module is not to train trainers in how to perform data QC or genomic analysis – rather, it aims to highlight the consequences of failing to do so, and the importance of incorporating these considerations into the design of an effective genomics training curriculum."
+  }
+]

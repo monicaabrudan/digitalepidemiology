@@ -1,5 +1,0 @@
----
-title: "Design Toolkit"
----
-
-[T3Connect Design Toolkit](docs/T3connect design Template.xlsx)

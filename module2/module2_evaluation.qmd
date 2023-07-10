@@ -1,4 +1,0 @@
----
-title: "Evaluation"
----
-[Presentation: Evaluation](docs/Evaluation.pdf)
