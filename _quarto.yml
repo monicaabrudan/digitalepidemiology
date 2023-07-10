@@ -10,18 +10,17 @@ website:
         text: Home
       - href: agenda.qmd
         text: Agenda
-      - href: definitions.qmd
-        text: Definitions
       - href: Syllabus.qmd
         text: Syllabus
       - text: Training materials
         menu:
-          - resources.qmd
+          - definitions.qmd
           - use-cases.qmd
           - stakeholders-mapping.qmd
           - hands-on/exercise.qmd
           - microreact/microreact.qmd
           - data-flo/data-flo.qmd
+          - resources.qmd
 
 
   page-footer: 

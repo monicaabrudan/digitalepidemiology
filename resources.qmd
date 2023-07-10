@@ -1,5 +1,5 @@
 ---
-title: "Overview"
+title: "Resources"
 ---
 
 The materials provided in this repository are FREE to use.
